@@ -1,0 +1,21 @@
+.header__nav{
+  display: flex;
+  column-gap: 65px;
+  ul{
+    display: flex;
+    column-gap: 65px;
+    align-items: center;
+    li{
+      a{
+        color: #000;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 0.22px;
+        text-transform: uppercase;
+      }
+    }
+  }
+
+}
